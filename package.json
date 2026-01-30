@@ -1,0 +1,19 @@
+{
+  "name": "weather-app-backend",
+  "version": "1.0.0",
+  "description": "A backend weather application using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "amit dubey",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "openmeteo": "^1.2.3"
+  }
+}
